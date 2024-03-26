@@ -1,0 +1,1 @@
+# mensagem_grupo_automatizado
